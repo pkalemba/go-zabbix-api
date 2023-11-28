@@ -1,4 +1,4 @@
-module github.com/claranet/go-zabbix-api
+module github.com/pkalemba/go-zabbix-api
 
 go 1.18
 
